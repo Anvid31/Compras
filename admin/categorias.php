@@ -9,6 +9,8 @@ if (isset($_POST)) {
         }
     }
 }
+
+
 include("includes/header.php");
 ?>
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
@@ -39,7 +41,7 @@ include("includes/header.php");
                                 </form>
                             </td>
                         </tr>
-                    <?php } ?>
+                    <?php } ?>         
                 </tbody>
             </table>
         </div>

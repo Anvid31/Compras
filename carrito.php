@@ -15,11 +15,11 @@ require_once "config/config.php";
     <!-- Bootstrap icons-->
     <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" /> -->
     <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="assets/css/styles.css" rel="stylesheet" />
     <link href="assets/css/estilos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
-<body>
+<body>  
     <!-- Navigation-->
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light">

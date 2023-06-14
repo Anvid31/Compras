@@ -1,6 +1,8 @@
 <?php
 require_once "../config/conexion.php";
 
+session_start();
+
 if (isset($_POST)) {
     if (!empty($_POST)) {
         $nombre = $_POST['nombre'];
